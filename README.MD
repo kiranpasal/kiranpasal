@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/channel/UCMHiLMj61pOE-cixftZjNrQ">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/sa_bin_sth">
+    <a href="https://twitter.com/kiran_sth">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -24,10 +24,10 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m @kiranpasalnp
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working in React Native
-- 💞️ I’m looking to collaborate on MERN stack projects like e-commerce, cms, etc.
-- 📫 How to reach me Email: iam@sabinsth.com.np
+- 👀 I’m interested in Frontend & Project Management
+- 🌱 I’m currently working in as project manager
+- 💞️ I’m looking to collaborate on Agile Board projects like Jira, etc.
+- 📫 How to reach me Email: kiran.pasalnp@gmail.com
 
 ---
 
