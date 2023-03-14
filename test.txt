@@ -7,3 +7,5 @@ feature for scrpeing google maps
 api call > api.py
 new folder for Images Images
 creting temp.csv x 20
+upload Imagee to FTP server
+update database form temp.csv
