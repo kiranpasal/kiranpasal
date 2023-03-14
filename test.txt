@@ -4,6 +4,6 @@ this is a test file for second commit
 feature for scrpeing google maps
 
 
-api call > api.py
-new folder for Images Images
+api call > api.py working
+new folder for Images Images populating
 creting temp.csv x 20
